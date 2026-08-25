@@ -1,6 +1,6 @@
 # Omarchy 中文社区资源一页纸
 
-> 整理自 Omarchy 中文微信群分享的精选资源，供人和 AI 快速阅读。
+> 整理自 Omarchy 中文社区分享的精选资源，供人和 AI 快速阅读。
 > 详细笔记见 [`resources/`](resources/) 目录。整理日期：2026-08-25
 
 ## Omarchy 是什么

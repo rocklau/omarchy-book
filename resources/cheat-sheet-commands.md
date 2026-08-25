@@ -1,6 +1,6 @@
 # Omarchy 实用功能速查表（文字版）
 
-> 来源：微信群分享图片《Omarchy Linux 实用功能速查 — Arch Linux × Hyprland 高效桌面工作流》。
+> 来源：中文社区分享图片《Omarchy Linux 实用功能速查 — Arch Linux × Hyprland 高效桌面工作流》。
 > 所有命令均为 Omarchy 4（Quattro）的 `omarchy` CLI。
 
 ## 01 窗口与工作区
