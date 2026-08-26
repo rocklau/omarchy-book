@@ -13,6 +13,7 @@
 | 资源 | 类型 | 一句话简介 |
 |---|---|---|
 | [Omarchy Mac](https://github.com/omarchy-mac/omarchy-mac) | 系统分支 | Apple Silicon（M1/M2）一条命令装 Omarchy 4：Asahi Alarm + 全盘加密，与 macOS 共存（1.1k★） |
+| [OmarchyCN](https://git.zacharyzhang.com/ZacharyZhang-NY/omarchycn) | 下游发行版 | 面向中国开发者的 Omarchy 下游分支：中国镜像源、Fcitx5+Rime 中文输入法、Kimi/DeepSeek/GLM AI Hub、微信/QQ/飞书应用中心，可 Overlay 叠加 |
 | [omarchy-rs](https://github.com/Omarchy-rs/omarchy-rs) | 性能增强 | Omarchy 用户态工具的 Rust 加速层：Agent 用量统计、工作区清理、技能管理、Learn 书架，可一键回滚 |
 | [OmaPilot](https://github.com/spencerbull/omarchy-omapilot) | AI 插件 | 顶栏 AI 助手：语音对话、截屏问答、桌面上下文、邮件/日历/Basecamp/Signal 连接器，可移交 Herdr 续聊 |
 | [Open Micro Kbd](https://openmicrokbd.org/) | 开源硬件 | 不到 $40 的 13 键 AI 宏键盘：旋钮调推理力度、摇杆、语音键、权限键，原理图即代码（[GitHub](https://github.com/conol-ai/openmicrokbd)） |
@@ -60,6 +61,7 @@ curl -fsSL https://raw.githubusercontent.com/omarchy-mac/omarchy-mac/quattro/bin
 |---|---|
 | [resources/cheat-sheet-commands.md](resources/cheat-sheet-commands.md) | 速查表完整文字版（13 类命令 + 学习路线） |
 | [resources/omarchy-mac.md](resources/omarchy-mac.md) | Apple Silicon 安装步骤、参数、排障 |
+| [resources/omarchycn.md](resources/omarchycn.md) | 中国本地化下游发行版：特性、安装、AI Hub |
 | [resources/omarchy-rs.md](resources/omarchy-rs.md) | Rust 加速层组件、安装与回滚 |
 | [resources/omapilot.md](resources/omapilot.md) | AI 助手插件：功能、快捷键、安全模型 |
 | [resources/openmicrokbd.md](resources/openmicrokbd.md) | 开源宏键盘：按键功能、技术架构 |
