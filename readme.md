@@ -6,18 +6,18 @@
 ## Omarchy 是什么
 
 [Omarchy](https://omarchy.org) 是 DHH（Ruby on Rails 作者）打造的 **Arch Linux + Hyprland** 开箱即用桌面环境：一条命令安装，自带调校好的快捷键、主题、工作流。
-上游仓库：<https://github.com/basecamp/omarchy>
+上游仓库：<https://github.com/basecamp/omarchy>（32.3k★）
 
 ## 资源总览
 
 | 资源 | 类型 | 一句话简介 |
 |---|---|---|
-| [Omarchy Mac](https://github.com/omarchy-mac/omarchy-mac) | 系统分支 | Apple Silicon（M1/M2）一条命令装 Omarchy 4：Asahi Alarm + 全盘加密，与 macOS 共存（1.1k★） |
+| [Omarchy Mac](https://github.com/omarchy-mac/omarchy-mac) | 系统分支 | Apple Silicon（M1/M2）一条命令装 Omarchy 4：Asahi Alarm + 全盘加密，与 macOS 共存（1.2k★） |
 | [OmarchyCN](https://git.zacharyzhang.com/ZacharyZhang-NY/omarchycn) | 下游发行版 | 面向中国开发者的 Omarchy 下游分支：中国镜像源、Fcitx5+Rime 中文输入法、Kimi/DeepSeek/GLM AI Hub、微信/QQ/飞书应用中心，可 Overlay 叠加 |
-| [omarchy-rs](https://github.com/Omarchy-rs/omarchy-rs) | 性能增强 | Omarchy 用户态工具的 Rust 加速层：Agent 用量统计、工作区清理、技能管理、Learn 书架，可一键回滚 |
-| [OmaPilot](https://github.com/spencerbull/omarchy-omapilot) | AI 插件 | 顶栏 AI 助手：语音对话、截屏问答、桌面上下文、邮件/日历/Basecamp/Signal 连接器，可移交 Herdr 续聊 |
-| [Open Micro Kbd](https://openmicrokbd.org/) | 开源硬件 | 不到 $40 的 13 键 AI 宏键盘：旋钮调推理力度、摇杆、语音键、权限键，原理图即代码（[GitHub](https://github.com/conol-ai/openmicrokbd)） |
-| [Zonda Zoom 主题](https://github.com/dhh/omarchy-zonda-zoom-theme) | 官方主题 | DHH 出品，帕加尼 Zonda HH 灵感的碳黑 + 冰蓝配色 |
+| [omarchy-rs](https://github.com/Omarchy-rs/omarchy-rs) | 性能增强 | Omarchy 用户态工具的 Rust 加速层：Agent 用量统计、工作区清理、技能管理、Learn 书架，可一键回滚（25★） |
+| [OmaPilot](https://github.com/spencerbull/omarchy-omapilot) | AI 插件 | 顶栏 AI 助手：语音对话、截屏问答、桌面上下文、邮件/日历/Basecamp/Signal 连接器，可移交 Herdr 续聊（109★） |
+| [Open Micro Kbd](https://openmicrokbd.org/) | 开源硬件 | 不到 $40 的 13 键 AI 宏键盘：旋钮调推理力度、摇杆、语音键、权限键，原理图即代码（[GitHub](https://github.com/conol-ai/openmicrokbd)，83★） |
+| [Zonda Zoom 主题](https://github.com/dhh/omarchy-zonda-zoom-theme) | 官方主题 | DHH 出品，帕加尼 Zonda HH 灵感的碳黑 + 冰蓝配色（21★） |
 | 实用功能速查表 | 速查表 | 13 类高频 `omarchy` 命令，图片转文字版见 [resources/cheat-sheet-commands.md](resources/cheat-sheet-commands.md) |
 
 ## 高频命令速查
