@@ -19,6 +19,7 @@
 | [Open Micro Kbd](https://openmicrokbd.org/) | 开源硬件 | 不到 $40 的 13 键 AI 宏键盘：旋钮调推理力度、摇杆、语音键、权限键，原理图即代码（[GitHub](https://github.com/conol-ai/openmicrokbd)，83★） |
 | [Zonda Zoom 主题](https://github.com/dhh/omarchy-zonda-zoom-theme) | 官方主题 | DHH 出品，帕加尼 Zonda HH 灵感的碳黑 + 冰蓝配色（21★） |
 | 实用功能速查表 | 速查表 | 13 类高频 `omarchy` 命令，图片转文字版见 [resources/cheat-sheet-commands.md](resources/cheat-sheet-commands.md) |
+| [ibara 首次任务](resources/ibara-first-task.md) | 实操指南 | 让现有 MCP Agent 在备用 Omarchy 电脑上检查练习菜单，再核对截图、结果和任务清理 |
 
 ## 高频命令速查
 
@@ -67,3 +68,4 @@ curl -fsSL https://raw.githubusercontent.com/omarchy-mac/omarchy-mac/quattro/bin
 | [resources/openmicrokbd.md](resources/openmicrokbd.md) | 开源宏键盘：按键功能、技术架构 |
 | [resources/theme-zonda-zoom.md](resources/theme-zonda-zoom.md) | 主题安装与完整配色 |
 | [resources/The-Tao-of-DHH.pdf](resources/The-Tao-of-DHH.pdf) | 《The Tao of DHH》原书 PDF |
+| [resources/ibara-first-task.md](resources/ibara-first-task.md) | 备用 Omarchy 电脑的首次 Agent 任务、前提条件与结果检查 |
